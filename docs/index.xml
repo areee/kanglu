@@ -71,8 +71,9 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://areee.github.io/kanglu/docs/asennus/</guid>
-      <description> Aloitus ja asennus Käyttöönotto  Tunnusten luominen TMC:hen  Orientaatio: mitä löytyy mistäkin  Linkkejä:  https://materiaalit.github.io/ohjelmointi-18/ https://tmc.mooc.fi/org/kanglu/courses/498   Asennus  ks. ohjeet: https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
-  </description>
+      <description> Aloitus ja asennus Käyttöönotto  Tunnusten luominen TMC:hen Javan ja NetBeans with TMC:n lataaminen ja asentaminen  Orientaatio: mitä löytyy mistäkin  Linkkejä:  https://materiaalit.github.io/ohjelmointi-18/ https://tmc.mooc.fi/org/kanglu/courses/498   Asennus  ks. ohjeet: https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
+  Täydennys ohjeisiin  Javan lataaminen vaatii kirjautumisen Oraclen tilille. Käytä netistä kaivettuja, toimivia tunnuksia (toimi ainakin 12.8.2019):
+ käyttäjätunnus: nicabeta@email-wizard.com salasana: MQEemoh3pOsRAn2c4tjh   </description>
     </item>
     
   </channel>
