@@ -28,3 +28,15 @@ Voit kirjoittaa tietokoneesi komentoriville / päätteeseen / Terminaaliin seura
 
 	java -version
 	javac -version
+	
+Jos vastauksena on allaoleva, on kaikki kunnossa:
+
+**java -version:**
+
+	java version "1.8.0_221"
+	Java(TM) SE Runtime Environment (build 1.8.0_221-b11)
+	Java HotSpot(TM) 64-Bit Server VM (build 25.221-b11, mixed mode)
+
+**javac -version:**
+
+	javac 1.8.0_221
