@@ -1,0 +1,5 @@
+baseURL = "https://areee.github.io/kanglu/"
+languageCode = "fi"
+title = "Kangasalan Java-kurssi (perusteet), syksy 2019"
+theme = "book"
+publishDir = "docs"
