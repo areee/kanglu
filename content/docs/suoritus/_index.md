@@ -14,20 +14,26 @@ bookToc: false
 - Aikaa kannattaa varata tehtävien tekemiseen!
 	- Ensimmäisten osien kohdalla tehtävät tulee luultavasti tehtyä rivakasti (~muutamassa tunnissa), mutta lähestyttäessä viikkoa 7 aikaa voi hyvinkin mennä jopa 20 tuntia per osa!
 
-## Käänteinen luokkahuone
+## Kurssin käytänteet
+
+### WhatsApp-ryhmä
+- Viestintään, kysymyksiin ja perjantain etäopetuksen "tukikanava" (laita kysymyksiä etukäteen WhatsApp-ryhmään, Arttu vastaa perjantaisin)
+- Liittyminen: lähetä Artulle WhatsApp-viesti *[oma nimi]* numeroon *XXX* (numero kerrotaan ensimmäisillä oppitunneilla)
+
+### Käänteinen luokkahuone
 
 - *Kotitehtävä*: Etukäteen ennen jokaista oppituntia on luettava sen viikon materiaalia, joka on käsittelyssä
 - Oppitunneilla on aikaa käydä läpi hankalia ongelmakohtia ja tehdä tehtäviä, kun teoriasta on jo hieman tietoa
 
 
-## Perjantain oppitunneista
+### Perjantain oppitunneista
 - Perjantaisin on luvassa etäopetusta
 - Artun ehdotus sisällöstä: Hangouts-livelähetys, jossa vastaan teidän Whatsappissa lähettämiinne kysymyksiin
 
-## Osaamistavoitteet
+### Osaamistavoitteet
 Kursseilla opitaan perustaidot ohjelmoinnista Java-kielellä. Tutuksi tulevat muun muassa syötteen lukeminen, tulostaminen, ehtolauseet, toistolauseet, listojen käsittely, oliot, ymym.
 
-### Ohjelmoinnin perusteet
+#### Ohjelmoinnin perusteet
 
 Osa | Osaamistavoitteet
 --- | ---
@@ -39,4 +45,4 @@ Osa | Osaamistavoitteet
 6 |	Tuntee käsitteen tiedosto. Osaa lukea tietoa erilaisista tietolähteistä (mm. tiedosto, verkko). Ymmärtää hajautustaulun periatteen. Osaa kirjoittaa hajautustaulua käyttäviä ohjelmia ja osaa luoda satunnaislukuja Javan avulla. Tuntee staattisten ja ei staattisten metodien erot ja tutustuu sovelluksen jakamiseen useampaan vastuualueeseen (tekstikäyttöliittymä, sovelluslogiikka).
 7 |	Osaa pilkkoa ohjelman useampaan osaan, missä yhden vastuulla on (tekstimuotoinen) käyttöliittymä, toisen vastuulla sovelluslogiikka. Tuntee testivetoisen ohjelmistokehityksen perusajatuksen ja osaa kirjoittaa ohjelman metodien toiminnallisuutta tarkastelevia testejä. Ryhmittelee arvoja hajautustaulun avulla ja osaa käyttää listaa hajautustaulun arvona. Osaa luoda yksinkertaisia simulaatioita.
 
-Lähde: https://materiaalit.github.io/ohjelmointi-18/ (Creative Commons BY-NC-SA -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä)
+Osaamistavoitteiden lähde: https://materiaalit.github.io/ohjelmointi-18/ (Creative Commons BY-NC-SA -lisenssi, Helsingin yliopiston Agile Education Research -tutkimusryhmä)

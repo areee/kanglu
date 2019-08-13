@@ -6,7 +6,7 @@ draft: false
 
 # Viikko 1
 
-- [Ensimmäisen viikon tehtävät (osa 1)](https://materiaalit.github.io/ohjelmointi-18/part1/)
+- [Ensimmäisen viikon teoria ja tehtävät (osa 1)](https://materiaalit.github.io/ohjelmointi-18/part1/)
 
 ## Viikon 1 osaamistavoitteet:
 
